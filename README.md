@@ -1,5 +1,5 @@
 # About
-This repository is meant as an information resource on the unfolding COVID19 situation, with a focus on Switzerland.
+This repository is meant as a scientific information resource on the unfolding COVID19 situation, with a focus on Switzerland.
 
 [ENGLISH VERSION](https://github.com/swiss-covid/info/tree/master/en/README.md)
 
@@ -16,3 +16,5 @@ It is maintained by the following people:
 - Dr. Julien Riou, University of Bern
 
 Our goal is simple: to provide anyone with selected and trustworthy resources and information about COVID19.
+
+*For official information from the Federal Office of Public Health, please consult their website at [https://www.bag.admin.ch/bag/en/home.html](https://www.bag.admin.ch/bag/en/home.html).*

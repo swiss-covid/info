@@ -1,11 +1,11 @@
 # About
 This repository is meant as a scientific information resource on the unfolding COVID19 situation, with a focus on Switzerland.
 
-[ENGLISH VERSION](https://github.com/swiss-covid/info/en)
+[ENGLISH VERSION](en)
 
-[DEUTSCHE VERSION](https://github.com/swiss-covid/info/de)
+[DEUTSCHE VERSION](de)
 
-[VERSION FRANCAISE](https://github.com/swiss-covid/info/fr)
+[VERSION FRANCAISE](fr)
 
 
 It is maintained by the following people:

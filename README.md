@@ -1,11 +1,11 @@
 # About
 This repository is meant as a scientific information resource on the unfolding COVID19 situation, with a focus on Switzerland.
 
-[ENGLISH VERSION](https://github.com/swiss-covid/info/tree/master/en/README.md)
+[ENGLISH VERSION](https://github.com/swiss-covid/info/en)
 
-[DEUTSCHE VERSION](https://github.com/swiss-covid/info/tree/master/de/README.md)
+[DEUTSCHE VERSION](https://github.com/swiss-covid/info/de)
 
-[VERSION FRANCAISE](https://github.com/swiss-covid/info/tree/master/fr/README.md)
+[VERSION FRANCAISE](https://github.com/swiss-covid/info/fr)
 
 
 It is maintained by the following people:

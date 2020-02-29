@@ -22,7 +22,7 @@ Among the 44'000 laboratory confirmed cases, the fraction of deaths is at 0.2% o
 Half of patients classified as critical died.
 The distribution of confirmed cases and deaths along with their ratio (an estimate of the case fatality ratio) is shown below:
 
-![CFR_China](/images/CFR_China.png)
+![CFR_China](/info/images/CFR_China.png)
 
 This comprehensive reporting by Chinese health care workers, scientists, and public health officials is an invaluable resource that helps the rest of the world to prepare.
 

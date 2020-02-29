@@ -30,6 +30,17 @@ This comprehensive reporting by Chinese health care workers, scientists, and pub
 By now, we also have substantial information on severity and fatality rates outside of China.
 The outbreak on the cruise ship "Princess Diamond", for example, provides us with data on populations that were tested extensively such that we can be confident that few cases were missed.
 
+As of Feb 29, 705 passengers of the cruise ship have tested positive for the virus. Six passengers have died and 36 are in critical condition.
+Cruise ship passengers are not a representative sample of the population.
+Instead, they are likely mostly elderly.
+For this demographic, the observations on the cruise ship suggest case fatality ratios above 1% (presumably some of those in critical condition will die) and about 5% critical cases.
+
+Singapore has recorded 102 to date (Feb 29) with 7 critical cases and no death.
+Again, Singapore is likely to have detected a large fraction of all cases and these number are compatible with the fraction of severe cases reported from China.
+([source](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/))
+
+Hong Kong has seen comparable numbers with 92 cases, 2 serious, 4 critical, and 2 deaths ([source](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)).
+
 
 ## Summary
 

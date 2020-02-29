@@ -7,5 +7,5 @@
 
  The transition from containment to mitigation is fluid. Once it becomes harder / impossible to identify the sources of many infections, and once it's clear there is increasing and potentially widespread transmission within the community, we will move to a mitigation phase. In the mitigation phase, the goal is not to stop the outbreak anymore (because this is probably impossible at this stage), but to limit its size and impact:
 
- ![epidemic curve mitigation][/images/epidemic_curve_mitigation.png]
+ ![epidemic curve mitigation](/images/epidemic_curve_mitigation.png)
  Source: [https://www.cdc.gov/mmwr/volumes/66/rr/rr6601a1.htm](https://www.cdc.gov/mmwr/volumes/66/rr/rr6601a1.htm)

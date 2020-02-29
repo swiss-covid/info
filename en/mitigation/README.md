@@ -13,4 +13,14 @@
 ## Why is mitigation important?
  Upon realizing that an outbreak can perhaps not be contained, it is easy to become fatalistic and think, "ok, we didn't manage to contain it, it will spread - so why bother?" That would be a **very big mistake**. As the image above shows, mitigation has two very important effects:
  1. First, mitigation efforts help us to _reduce the magnitude_ of the epidemic at any point in time. In other words, it helps us to reduce the number of sick people at a give time (prevalence) - this is very important to reduce the burden on the health care infrastructure.
- 2. Second, mitigation efforts helps us to _slow down the epidemic_, and delay many cases. This is important because it buys us valuable time during which organizations around the world are racing to develop a vaccine and new drugs (or identify existing drug as effective in treating COVID19).
+ 2. Second, mitigation efforts helps us to _slow down the epidemic_, and delay many cases. This is important because it buys us valuable time during which organizations around the world are racing to develop a vaccine and new drugs (or identify existing drugs as effective in treating COVID19).
+
+## How to mitigate
+The main goal of mitigation is to make it harder for SARS-CoV-2 to transmit from one person to the next (to learn more about transmission of SARS-CoV-2, please consult the [transmission section](../transmission)).
+
+We currently do not have any **pharmaceutical interventions** at disposal. Once they become available, they will be a major tool for mitigation. When that happens is unfortunately impossible to predict at this point.
+
+Until that happens, we can start to use **non-pharmaceutical interventions (NPIs)**. These can be community-based, or individual-based.
+
+### Personal Interventions
+- __Hand washing__: Hand washing is one of the most easy and effective tools at anyone's disposal to help slow down the spread of COVID19. Frequent and _thorough_ hand washing has been shown repeatedly to hamper the spread of infectious diseases. This [US CDC webpage](https://www.cdc.gov/handwashing/why-handwashing.html) contains a lot of useful information and references to scientific papers that systematically evaluated hand washing.

@@ -24,3 +24,7 @@ Until that happens, we can start to use **non-pharmaceutical interventions (NPIs
 
 ### Personal Interventions
 - __Hand washing__: Hand washing is one of the most easy and effective tools at anyone's disposal to help slow down the spread of COVID19. Frequent and _thorough_ hand washing has been shown repeatedly to hamper the spread of infectious diseases. This [US CDC webpage](https://www.cdc.gov/handwashing/why-handwashing.html) contains a lot of useful information and references to scientific papers that systematically evaluated hand washing.
+
+- __Respiratory etiquette__: If you sneeze or cough, cover your mouth, ideally with a disposable tissue (dispose it!) of into your elbow. The point is to not just cough / sneeze into the open, and too not cough into your hand, because then you're likely to touch surface and deposit viral particles on those surfaces.
+
+- __Stay at home when ill__: Once you begin to have symptoms because of a SARS-CoV-2 infection, you are very likely already infectious (see [SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients](https://www.nejm.org/doi/full/10.1056/NEJMc2001737)). Thus, if you feel typical COVID19 symptoms coming on - high temperature and a cough - call a doctor or the local hotline (Swiss hotline: +41 58 463 00 00, 24 hours) and follow their instructions.

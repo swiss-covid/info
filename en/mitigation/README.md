@@ -1,6 +1,6 @@
-## Mitigation
+# Mitigation
 
-# From containment to mitigation
+## From containment to mitigation
  When COVID-19 appears in a country, the first step is to try and stop it from developing into a large epidemic - i.e. to contain its spread and stop the outbreak (containment phase).
 
  There are a number of strategies to do that. In the current situation, the two strategies are 1) to rapidly identify and isolate cases and to quarantine their contacts; and 2) to prevent new transmissions through non-pharmaceutical interventions. In such a phase, one is still able to identify (most of) the sources of infection. This is the phase we're currently at in Switzerland (2020-02-29).
@@ -9,3 +9,8 @@
 
  ![epidemic curve mitigation](/info/images/epidemic_curve_mitigation.png)
  Source: [https://www.cdc.gov/mmwr/volumes/66/rr/rr6601a1.htm](https://www.cdc.gov/mmwr/volumes/66/rr/rr6601a1.htm)
+
+ ## Why is mitigation important?
+ Upon realizing that an outbreak can likely not be contained, it is easy to become fatalistic and think, "ok, we didn't manage to contain it, it will spread - so why bother?" That would be a *very big mistake*. As the image above shows, mitigation has two very important effects:
+ 1. First, mitigation efforts help us to reduce the magnitude of the epidemic at any point in time. In other words, it helps us to reduce the number of sick people at a give time (prevalence) - this is very important to reduce the burden on the health care infrastructure.
+ 2. Second, mitigation efforts helps us to slow down the epidemic, and delay many cases. This is important because it buys us valuable time during which organizations around the world are racing to develop a vaccine and new drugs (or identify existing drug as effective in treating COVID19). 

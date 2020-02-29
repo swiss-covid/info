@@ -20,8 +20,9 @@ These conclusions were drawn using data available by Feb 11.
 Among the 44'000 laboratory confirmed cases, the fraction of deaths is at 0.2% or below for individuals below age 40, but rapidly rises once patients are older than 60 years.
 13.8% of these cases were classified as severe, 4.7% as critical.
 Half of patients classified as critical died.
+The distribution of confirmed cases and deaths along with their ratio (an estimate of the case fatality ratio) is shown below:
 
-[CFR_China](/images/cfr_china.png)
+![CFR_China](/images/CFR_china.png)
 
 This comprehensive reporting by Chinese health care workers, scientists, and public health officials is an invaluable resource that helps the rest of the world to prepare.
 

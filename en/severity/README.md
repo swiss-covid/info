@@ -22,11 +22,15 @@ Among the 44'000 laboratory confirmed cases, the fraction of deaths is at 0.2% o
 Half of patients classified as critical died.
 The distribution of confirmed cases and deaths along with their ratio (an estimate of the case fatality ratio) is shown below:
 
-![CFR_China](/images/CFR_china.png)
+![CFR_China](/images/CFR_China.png)
 
 This comprehensive reporting by Chinese health care workers, scientists, and public health officials is an invaluable resource that helps the rest of the world to prepare.
 
 ## What did we learn from outbreaks outside of China?
+By now, we also have substantial information on severity and fatality rates outside of China.
+The outbreak on the cruise ship "Princess Diamond", for example, provides us with data on populations that were tested extensively such that we can be confident that few cases were missed.
+
+
 ## Summary
 
 # Comparison to other infectious diseases

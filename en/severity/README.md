@@ -1,7 +1,30 @@
 # Severity and mortality
 
 ## Why is it difficult to estimate the case fatality ratio?
+
+The case fatality ratio is the fraction of all cases that don't recover but die.
+Estimating this number in an ongoing outbreak is difficult since
+
+ * Many patients that are sick now have neither recovered or died and we don't know their outcome.
+ * We don't know the total number of cases as mild and asymptomatic cases might not show up in the statistics.
+ * Whether or not someone dies depends on the quality of care they receive and this varies from place to place and the with the burden on the health care system.
+
+With these caveats in mind, one can nevertheless estimate mortality and severity of COVID-19 from the available data.
+Such estimates are critical to prepare for growing outbreaks.
+
+
 ## What do we know from China?
+The Chinese Centers for Disease Control have [published a comprehensive analysis](http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51) of the first 72'000 cases that gives us important first indications on how dangerous COVID-19 is for individuals of different ages and different conditions.
+These conclusions were drawn using data available by Feb 11.
+
+Among the 44'000 laboratory confirmed cases, the fraction of deaths is at 0.2% or below for individuals below age 40, but rapidly rises once patients are older than 60 years.
+13.8% of these cases were classified as severe, 4.7% as critical.
+Half of patients classified as critical died.
+
+[CFR_China](/images/cfr_china.png)
+
+This comprehensive reporting by Chinese health care workers, scientists, and public health officials is an invaluable resource that helps the rest of the world to prepare.
+
 ## What did we learn from outbreaks outside of China?
 ## Summary
 

@@ -5,13 +5,13 @@ Some variants of coronaviruses are associated with outbreaks, others are continu
 
 ### SARS-CoV-2
 SARS-CoV-2 is a betacoronavirus.
-Background on the organziation and the genome of such betacorona virus can be found on the [pages of SIB-Viralzone](https://viralzone.expasy.org/764?outline=all_by_species).
-The virus has close relative in diference animals, including bats.
-A phylogenetic analysis by Trevor Bedford of betacoronaviruses including SARS-CoV-1 and SARS-CoV2 can be found on
+Background on the organziation and the genome of such betacoronaviruses can be found on the [pages of SIB-Viralzone](https://viralzone.expasy.org/764?outline=all_by_species).
+The virus has close relatives in different animals, including bats.
+A phylogenetic analysis of betacoronaviruses SARS-CoV-1 and SARS-CoV2 by Trevor Bedford including can be found on
 [nextstrain.org/groups/blab/sars-like-cov](https://nextstrain.org/groups/blab/sars-like-cov).
 
 ### SARS-CoV & MERS-CoV
-The most well known of these coronaviruses is [SARS-CoV](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) ("severe acute respiratory syndrome"), which in a November 2002 to July 2003 outbreak spread around the world and resulted in [over 8000 cases and 774 deaths](https://www.theguardian.com/world/2017/dec/10/sars-virus-bats-china-severe-acute-respiratory-syndrome), with a case fatality rate of around 9–11%.
+The most well known of these coronaviruses is [SARS-CoV-1](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) ("severe acute respiratory syndrome"), which in a November 2002 to July 2003 outbreak spread around the world and resulted in [over 8000 cases and 774 deaths](https://www.theguardian.com/world/2017/dec/10/sars-virus-bats-china-severe-acute-respiratory-syndrome), with a case fatality rate of around 9–11%.
 
 In 2012, a novel coronavirus, [MERS-CoV](https://en.wikipedia.org/wiki/Middle_East_respiratory_syndrome) ("Middle East respiratory syndrome"), causing severe respiratory symptoms was identified. MERS has resulted in fatalities comparable to SARS, however the transmission route of MERS is very different. Whereas SARS was efficiently spread from one human to another, human MERS infections were generally a result of independent zoonoses (animal to human transmissions) from camels (see [Dudas _et al._](https://elifesciences.org/articles/31257) for more information). This has lead to a self-limiting outbreak largely restricted to the Arabian Peninsula.
 

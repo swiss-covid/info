@@ -18,13 +18,18 @@ The Chinese Centers for Disease Control have [published a comprehensive analysis
 These conclusions were drawn using data available by Feb 11.
 
 Among the 44'000 laboratory confirmed cases, the fraction of deaths is at 0.2% or below for individuals below age 40, but rapidly rises once patients are older than 60 years.
-13.8% of these cases were classified as severe, 4.7% as critical.
+13.8% of all cases were classified as severe, 4.7% as critical.
 Half of patients classified as critical died.
 The distribution of confirmed cases and deaths along with their ratio (an estimate of the case fatality ratio) is shown below:
 
 ![CFR_China](/info/images/CFR_China.png)
 
 This comprehensive reporting by Chinese health care workers, scientists, and public health officials is an invaluable resource that helps the rest of the world to prepare.
+
+It is unclear at present how many people were infected in China that should only mild symptoms and don't show up in the statistic.
+If this fraction is large, the fraction of infections that lead to severe illness or death would be lower.
+WHO, however, [reported]((https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) that they see little reason to believe there was widespread undetected circulation.
+
 
 ## What did we learn from outbreaks outside of China?
 By now, we also have substantial information on severity and fatality rates outside of China.
@@ -51,6 +56,7 @@ Upwards of 5% of eldery fall seriously ill and require medical care.
 # Comparison to other infectious diseases
 The ongoing COVID-19 pandemic is often compared to other pandemics in the past or seasonal influenza epidemics. Some of these comparisions are useful, but other are misleading.
 
+
 ## 2009 pandemic influenza
 The 2009 A/H1N1pdm influenza pandemic infected about 10-20% of the world's population (about 1 billion people).
 This virus infected [predominantly young individuals](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(12)70121-4/fulltext) and the case fatality ratio was low at around 3 in 10000.
@@ -60,6 +66,7 @@ While this virus spread very rapidly across the globe, it caused much less morbi
 The so-called Spanish flu was a devastating pandemic caused by the A/H1N1 influenza virus that infected around 500 million people in a population of almost 2 billion, corresponding to an attack rate just under 25%.
 The death toll is estimated to have been between 50 and 100 million, corresponding to a CFR in excess of 10%.
 Since this is an historic pandemic that unfolded in turbulent times, it is difficult to cleanly attribute these deaths to influenza and case fatality rate estimates remain imprecise.
+For these reasons, other estimates put the case fatality ratio lower at around 5%.
 The Spanish flu caused most death in young adults.
 
 ## Seasonal influenza
@@ -69,3 +76,11 @@ Seasons dominated by A/H3N2 influenza tend to be most severe.
 
 The typical attack rate in an influenza season is about 10% and around 1000 people die of influenza every year in Switzerland, corresponding to a CFR of about 0.1%.
 These death are predominatly in the elderly, but in contrast to COVID-19, small children are heavily affected by seasonal influenza.
+
+
+Jesse Bloom compiled an excellent comparison of fatality ratio across age groups which highlights that different pandemics in the past affected very different parts of the population.
+
+![agedis](https://raw.githubusercontent.com/jbloom/CoV_vs_flu_CFR/master/CFR-stats.jpg)
+
+
+
